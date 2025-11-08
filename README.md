@@ -32,9 +32,11 @@ To improve model performance, I applied data augmentation techniques such as fli
 - **Epochs:** 40  
  
 ## How to run my script
-1. Install dependencies
+1. Clone this repository
+   
+2. Install dependencies
 **pip install ultralytics opencv-python**
 
-2. Run detection
+3. Run detection
 **python detection_script.py --source ./input --out_dir ./output --conf 0.3**
 
