@@ -33,8 +33,8 @@ The augmented datasets is included for reference.
  
 ## How to run my script
 1. Install dependencies
-pip install ultralytics opencv-python
+**pip install ultralytics opencv-python**
 
 2. Run detection
-python detection_script.py --source ./input --out_dir ./output --conf 0.5
+**python detection_script.py --source ./input --out_dir ./output --conf 0.3**
 
