@@ -4,4 +4,4 @@ answer - 2. I will check if the new images look different in lighting, angle, or
 
 answer - 3. Accuracy is not the right metric here. I would look at recall and false negatives since missing a defect is more serious. It is fine to have a few false alarms as long as no bad product gets through.
 
-answer -4 . I will keep slightly blurry or partial images if they represent real situations.But if they’re too unclear then i will remove them.Some imperfect data helps the model adapt the real world situation, but too much can cause confusion.
+answer -4 . I will keep slightly blurry or partial images if they represent real situations.But if they are too unclear then i will remove them.Some imperfect data helps the model adapt the real world situation, but too much can cause confusion.
